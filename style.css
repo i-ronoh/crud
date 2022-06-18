@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+}
+
+#tytle {
+    color: #f1880f;
+    background-color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    padding: 40px;
+    margin: auto;
+    
+}
+
+#container {
+    border: 3px solid rebeccapurple;
+    padding: 40px;
+    margin: 10px;
+    width: 25%;
+}
+
+#container > #card {
+    border: 2px solid #031d57c5;
+    padding: 40px;
+    margin: auto;
+    width: 100%;
+}
