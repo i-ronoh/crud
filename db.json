@@ -1,0 +1,32 @@
+{
+    "Books":[
+        {
+            "id": 1,
+            "image": "https://github.com/i-ronoh/crud/blob/main/assets/images/MonkFerrari.jpg",
+            "title": "The Monk Who Sold His Ferrari",
+            "Author": "Robin Sharma"
+            
+        },
+        {
+            "id": 2,
+            "image": "https://github.com/i-ronoh/crud/blob/main/assets/images/KiteRunner.jpg",
+            "title": "The Kite Runner",
+            "Author": "Khaled Hosseini"
+            
+        },
+        {
+            "id": 3,
+            "image": "https://github.com/i-ronoh/crud/blob/main/assets/images/ArtSeduction.jpg",
+            "title": "The Art of Seduction",
+            "Author": "Robert Greene"
+            
+        },
+        {
+            "id": 4,
+            "image": "https://github.com/i-ronoh/crud/blob/main/assets/images/MoreWine.jpg",
+            "title": "We Are Going to Need More Wine",
+            "Author": "Gabrielle Union"
+            
+        }
+    ]
+}    
